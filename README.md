@@ -3,6 +3,7 @@
 ## Project aims
 The main aim is to be able to effectively control a remote control plane with two arduino nanos, using two NRF24L01 wireless modules.
 The secondary aim is to implement a PID controlled auto-level system, although this is a long way off...
+See [my spreadsheet](https://docs.google.com/spreadsheets/d/1AqZf3EmFratxWStfT653ApI9o3uzO_wXOzFvKitIQiA/edit?usp=sharing) for details
 
 ## Specifications and features
 ### Critical
